@@ -21,7 +21,7 @@ Welcome to the mobile application version of my personal web portfolio. This app
 
 ## Download
 
-You can download the APK for the app here: [Download Portfolio App].
+You can download the APK for the app here: [Download Portfolio App](https://github.com/Dinesh-singh-saini/Mannu/blob/master/mannu.apk).
 
 ## Contact
 
